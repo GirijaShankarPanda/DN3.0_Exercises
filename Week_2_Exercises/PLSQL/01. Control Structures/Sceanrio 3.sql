@@ -1,4 +1,4 @@
-DECLAR
+DECLARE
     CURSOR c_loans IS
         SELECT l.loan_id, l.customer_id, l.due_date, c.name
         FROM loans l
