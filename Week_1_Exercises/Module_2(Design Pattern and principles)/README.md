@@ -1,3 +1,5 @@
+# Design Pattern Exercises
+
 ## Exercise 1: Implementing the Singleton Pattern
 - Problem Statement: Ensure a logging utility class has only one instance throughout the application lifecycle.
 
