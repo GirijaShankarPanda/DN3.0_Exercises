@@ -1,3 +1,5 @@
+# Algorithm & Data Structure Exercises
+
 ## Exercise 1: Inventory Management System
 - Problem Statement: Develop an inventory management system for a warehouse with efficient data storage and retrieval.
 
